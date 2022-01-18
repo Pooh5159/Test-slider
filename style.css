@@ -46,7 +46,7 @@
     background-color: rgba(0, 0, 0, 0.8);
   }
   /* Caption text */
-  .text {
+  /* .text {
     color: #ffffff;
     font-size: 15px;
     padding: 8px 12px;
@@ -54,7 +54,7 @@
     bottom: 8px;
     width: 100%;
     text-align: center;
-  }
+  } */
     /* The dots/bullets/indicators */
   .dot {
     cursor: pointer;
