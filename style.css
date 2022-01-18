@@ -3,6 +3,7 @@
   }
   .container {
     background-color: #bde597;
+    padding-bottom: 50px;
   }
   body {
     font-family: sans-serif;
@@ -55,7 +56,22 @@
     width: 100%;
     text-align: center;
   } */
+
+   /* Number text (1/3 etc) */
+   /* .numbertext {
+    color: #ffffff;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  } */
+
     /* The dots/bullets/indicators */
+  .dots {
+    margin-top: -50px;
+    position: relative;
+  }
+
   .dot {
     cursor: pointer;
     height: 15px;
